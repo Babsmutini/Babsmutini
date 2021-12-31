@@ -30,6 +30,8 @@ I am a Frontend Developer with special interests in React/NextJS and 4 years of 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=babsmutini&count_private=true&theme=dark&hide=contribs,issues)
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=babsmutini&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+ [![Scott's github stats](https://github-readme-stats.vercel.app/api?username=babsmutini)](https://github.com/babsmutini/github-readme-stats)
   
 #### Wakatime Stats 🚶🏾‍♂️ 
 ![Wakatime Stats](https://wakatime.com/badge/user/3b357963-a5f1-445c-9d09-2832af1f293d.svg)
