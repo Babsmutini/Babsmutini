@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Scott
 
-I am a Frontend Developer with special interests in React/NextJS and 4 years of building experience. I also enjoy pixel perfect ui implementation and clean code🙂
+I am a Frontend Engineer with special interests in React/NextJS and 4 years of building experience. I also enjoy pixel perfect ui implementation and clean code🙂
 
 - 🔭 I’m currently working on problem solving techniques and algorithms
 - 🌱 I’m currently learning DataScience, Python libraries like Matplotlib, Pandas, Scikit and Typescript
